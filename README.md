@@ -1,5 +1,3 @@
-# video-transcription-tool
-
 # 🎥📝 Video Transcription Tool 🚀✨
 
 Easily transcribe video content with this **Video Transcription Tool**! This project leverages **Pytube** for downloading YouTube videos, processes the audio using **Librosa**, and supports translation of the transcription into multiple languages using **Google Translate**. It's an efficient solution for converting video content into structured, multilingual text. 🌍
